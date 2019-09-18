@@ -1,0 +1,16 @@
+$templateColour: red;
+$header-height: 4.5rem;
+
+@import "~font-awesome/scss/font-awesome";
+//@import "~bootstrap-select/dist/css/bootstrap-select";
+//@import "~leaflet/dist/leaflet";
+@import "~nouislider/distribute/nouislider";
+@import "~v-calendar/lib/v-calendar.min.css";
+
+@import "core";
+@import "layout/sidebar";
+@import "layout/main";
+
+.full-height {
+  min-height: calc(100vh - 5rem);
+}
