@@ -33,7 +33,7 @@
     "laravel-echo": "^1.5.1",
     "laravel-mix": "^2.0",
     "leaflet": "^1.5.1",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.13",
     "magnific-popup": "^1.1.0",
     "nouislider": "^14.0.1",
     "popper.js": "^1.12",
